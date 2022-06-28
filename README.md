@@ -6,6 +6,7 @@ Crypto currency change list
 
 Clone and test
 
+- Getting data from coincap.io with Dio package
 - Swipe down to refresh
 - Search in cryptos list
 
